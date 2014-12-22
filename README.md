@@ -35,9 +35,15 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-A briefe discourse of the late murther of master George Saunders, a worshipfull citizen of London an
+
 #####Body#####
-A briefe discourse of the late murther of master George Saunders, a worshipfull citizen of London an
+FOr asmuche as the late murther of Master Saunders, Citizen and Merchant taylor of this Citie, minis
+1. Anne Saunders confession as she spake it at the place of execution.
+
+1. The Prayer whiche was said by Anne Saunders at the place of execution, the copie wherof, she deliuered vnto the right honourable the E•…rle of Bedforde.
+
+1. note of a certaine saying vvhich Master Saunders had lefte written with his owne hand in his studie.
+
 **Types of content**
 
   * Oh, Mr. Jourdain, there is **prose** in there!
